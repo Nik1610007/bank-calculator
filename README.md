@@ -6,7 +6,7 @@
 Веб-приложение для расчета платежей по кредитам: ипотека, автокредит, потребительский кредит.
 
 ## 📸 Скриншот интерфейса
-![Калькулятор]([https://i.imgur.com/8QJjZyA.png][(https://github.com/Nik1610007/bank-calculator/issues/1)](https://github.com/Nik1610007/bank-calculator/issues/2)
+![Калькулятор](https://github.com/Nik1610007/bank-calculator/issues/2)
 
 ## ⚙️ Функционал
 - Расчет ежемесячного платежа для 3 видов кредитов
